@@ -18,9 +18,9 @@ A basic multi-page recipe website built with pure HTML as part of **[The Odin Pr
 
 ## 📝 About the Project
 
-This project was assigned as part of **The Odin Project – Foundations: Recipes lesson**. The goal was to build a simple multi-page recipe website using only HTML — no CSS or JavaScript — to practice the fundamentals of HTML structure, linking between pages, and organizing files in a project directory.
+This project was assigned as part of **The Odin Project – Foundations: Recipes lesson**. The goal was to build a simple multi-page recipe website using only HTML to practice the fundamentals of HTML structure, linking between pages, and organizing files in a project directory.
 
-The site features a main homepage (`index.html`) that links to three individual recipe pages, each containing a dish image, description, ingredients list, and step-by-step cooking instructions.
+The site features a main homepage that links to three individual recipe pages, each containing a dish image, description, ingredients list, and step-by-step cooking instructions.
 
 > ⚠️ **Note:** The site intentionally has no styling. CSS will be added in a future iteration of this project as part of the curriculum.
 
@@ -88,8 +88,7 @@ Each recipe page follows the same structure:
 2. Open `index.html` in your web browser.
 
 ### Option 2 – View on GitHub Pages
-*(If GitHub Pages is enabled)*
-Visit: `https://arkintamayo.github.io/odin-recipes`
+Visit: [https://arkintamayo.github.io/odin-recipes](https://arkintamayo.github.io/odin-recipes)
 
 ---
 
