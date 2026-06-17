@@ -23,10 +23,27 @@
 
 #description-header {
     background-color: lightgray;
-    box-sizing: border-box;
     padding: 10px;
+    width: 150px;
 }
 
 .home-button {
-    
+    background-color: #7393B3;
+}
+
+#home-link {
+    color: black;
+    text-decoration: none;
+}
+
+#ingredients-header {
+    background-color: #D27D2D;
+    padding: 10px;
+    width: 110px;
+}
+
+#steps-header {
+    background-color: #EADDCA;
+    padding: 10px;
+    width: 60px;
 }
