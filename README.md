@@ -40,7 +40,8 @@ The site features a main homepage that links to three individual recipe pages, e
 
 ```
 odin-recipes/
-├── index.html          # Main homepage with links to all recipes                   
+├── index.html          # Main homepage with links to all recipes       
+├── style.css          
 ├── images/             # Dish images used across recipe pages
 └── recipes/
     ├── banana-bread.html
